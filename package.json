@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/ankushrgv/ReactRefluxSetup/issues"
   },
-  "homepage": "https://github.com/ankushrgv/ReactRefluxSetup#readme"
+  "homepage": "https://github.com/ankushrgv/ReactRefluxSetup#readme",
+  "dependencies": {
+    "babel-core": "^6.25.0",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-react": "^6.24.1"
+  }
 }
