@@ -1,0 +1,20 @@
+{
+  "name": "FirstProject",
+  "version": "1.0.0",
+  "description": "A very basic React Project setup to implement REFLUX architecture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankushrgv/ReactRefluxSetup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankushrgv/ReactRefluxSetup/issues"
+  },
+  "homepage": "https://github.com/ankushrgv/ReactRefluxSetup#readme"
+}
